@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zepoyojeriqi.b-cdn.net/sitemap.xml
